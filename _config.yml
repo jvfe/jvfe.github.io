@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 
-city: 
+city: Natal
 state: RN
 zip_code: 
 country: Brazil
@@ -18,13 +18,13 @@ icon:  # Font Awesome class for your site's icon
 # Social settings
 facebook_url:
 github_url: https://github.com/jvfe
-gitlab_url: 
+gitlab_url: https://gitlab.com/jvfe
 googleplus_url: 
 instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url: https://twitter.com/Jvcavv
 
 # Build settings
 markdown: kramdown
