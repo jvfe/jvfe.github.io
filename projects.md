@@ -1,6 +1,36 @@
 ---
 title: projects
+image: projects_bg.png
 ---
-Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.
+<h4><a href="https://github.com/jvfe/reconciler" target="_blank">reconciler</a></h4>
+
+A Python interface to W3C reconciliation services.
+</br>
+
+
+</br>
+
+<h4><a href="https://github.com/jvfe/wikidata2df" target="_blank">wikidata2df</a></h4>
+
+Utility Python package for easily turning a SPARQL query into a Pandas dataframe.
+</br>
+
+
+</br>
+
+<h4><a href="https://github.com/jvfe/go2cell" target="_blank">go2cell</a></h4>
+
+R package to link Gene Ontology IDs to cell types via the Wikidata.
+</br>
+</br>
+
+Furthermore, I frequently contribute to Open Source software projects, among them:
+</br>
+
+<ul>
+<li><a href="https://github.com/vinisalazar/bioprov" target="_blank">BioProv</a>,</li>
+<li><a href="https://github.com/biopython/biopython" target="_blank">BioPython</a> and</li>
+<li><a href="https://github.com/ropensci/webchem" target="_blank">WebChem.</a></li>
+</ul>
+
