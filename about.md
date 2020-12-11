@@ -1,8 +1,15 @@
 ---
 title: about
+image: about_bg.png
 ---
-Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.
+> For it is the chief characteristic of the religion of science, that it works... \- Isaac Asimov, Foundation
 
+I'm an undergraduate student in Biomedical Science, currently doing research on bioinformatics, experienced with
+software development in Python and R, particularly in what pertains to scientific software and data analysis. My
+interests include, but are not limited to: Neuroscience, Open Data (I'm also a Wikidata editor!), FOSS culture,
+NLP, generative art and reproducible science. 
+
+Check me out on these other websites:
 <ul class="icons">
 
 	{% if site.twitter_url %}
