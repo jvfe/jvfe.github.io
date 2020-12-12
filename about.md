@@ -41,3 +41,6 @@ Check me out on these other websites:
 				{% endif %}
 
 </ul>
+
+
+<a href="https://jvfe.github.io/cv/cv-en/cv-en.pdf" target="_blank">And this is my CV.</a>
