@@ -21,7 +21,7 @@ Utility Python package for easily turning a SPARQL query into a Pandas dataframe
 
 <h4><a href="https://github.com/jvfe/go2cell" target="_blank">go2cell</a></h4>
 
-R package to link Gene Ontology IDs to cell types via the Wikidata.
+R package to link Gene Ontology IDs to cell types via Wikidata.
 </br>
 </br>
 
