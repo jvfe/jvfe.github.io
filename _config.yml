@@ -1,27 +1,26 @@
-
 # Site settings
-title: João Vitor F. Cavalcante
+title: João V. F. Cavalcante
 email: jvfecav@gmail.com
-description: Programmer ⏺ Bioinformatician ⏺ FOSS enthusiast
+description: Data Analyst ⏺ Bioinformatician
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 
+street_address:
 city: Natal
 state: RN
-zip_code: 
+zip_code:
 country: Brazil
-phone: 
+phone:
 
-icon:  # Font Awesome class for your site's icon
+icon: # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
 github_url: https://github.com/jvfe
 gitlab_url: https://gitlab.com/jvfe
-googleplus_url: 
+googleplus_url:
 instagram_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/joao-vitor-cavalcante/
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/Jvcavv
