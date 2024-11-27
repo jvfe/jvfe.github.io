@@ -3,10 +3,15 @@ title: about
 image: about_bg.png
 ---
 
-I'm a Bachelor in Biomedical Science and currently a Master of Science student in Bioinformatics. I'm experienced with
-software development in Python and R, particularly in what pertains to scientific software and data analysis. My
-interests include, but are not limited to: Metagenomics, Open Data, FOSS culture,
-Neuroscience, generative art and reproducible science.
+I'm a Bioinformatics Developer, currently working towards a Master's in Bioinformatics. I'm experienced with
+software development in Python and R, particularly in what pertains to scientific software and data analysis.
+My main focus these days has been data pipeline development, primarily with Nextflow.
+
+I also develop courses in subjects that interest me - I've taught short courses in Docker, Git (including one at Anaconda Learning!)
+and Nextflow (I'm also a Nextflow Ambassador!).
+
+My interests include, but are not limited to: Metagenomics, Open Data, FOSS,
+Neuroscience, scientific software and reproducible science.
 
 Check me out on these other websites:
 
