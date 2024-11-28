@@ -1,7 +1,7 @@
 # Site settings
 title: João V. F. Cavalcante
 email: jvfecav@gmail.com
-description: Bioinformatics Developer ⏺ Data Analyst 
+description: Bioinformatics Developer ⏺ Data Analyst
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -23,7 +23,7 @@ instagram_url:
 linkedin_url: https://www.linkedin.com/in/joao-vitor-cavalcante/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/Jvcavv
+bluesky_url: https://bsky.app/profile/jvfe.bsky.social
 
 # Build settings
 markdown: kramdown

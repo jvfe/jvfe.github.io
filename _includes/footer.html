@@ -2,47 +2,50 @@
 
 <!-- Footer -->
 <footer id="footer">
-  <ul class="icons">
+      <ul class="icons">
 
-    {% if site.twitter_url %}
-    <li><a href="{{ site.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a>
-    </li>
-    {% endif %}
-    {% if site.googleplus_url %}
-    <li><a href="{{ site.googleplus_url }}" class="icon fa-google-plus" target="_blank"><span
-          class="label">Google+</span></a></li>
-    {% endif %}
-    {% if site.facebook_url %}
-    <li><a href="{{ site.facebook_url }}" class="icon fa-facebook" target="_blank"><span
-          class="label">Facebook</span></a></li>
-    {% endif %}
-    {% if site.instagram_url %}
-    <li><a href="{{ site.instagram_url }}" class="icon fa-instagram" target="_blank"><span
-          class="label">Instagram</span></a></li>
-    {% endif %}
-    {% if site.pinterest_url %}
-    <li><a href="{{ site.pinterest_url }}" class="icon fa-pinterest" target="_blank"><span
-          class="label">Pinterest</span></a></li>
-    {% endif %}
-    {% if site.gitlab_url %}
-    <li><a href="{{ site.gitlab_url }}" class="icon fa-gitlab" target="_blank"><span class="label">GitLab</span></a>
-    </li>
-    {% endif %}
-    {% if site.github_url %}
-    <li><a href="{{ site.github_url }}" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a>
-    </li>
-    {% endif %}
-    {% if site.slack_url %}
-    <li><a href="{{ site.slack_url }}" class="icon fa-slack" target="_blank"><span class="label">Slack</span></a></li>
-    {% endif %}
-    {% if site.linkedin_url %}
-    <li><a href="{{ site.linkedin_url }}" class="icon fa-linkedin" target="_blank"><span
-          class="label">LinkedIn</span></a></li>
-    {% endif %}
+            {% if site.twitter_url %}
+            <li><a href="{{ site.twitter_url }}" target="_blank"><i class="icon fa-brands fa-twitter"><span
+                                    class="label">Twitter</span></i></a></li>
+            {% endif %}
+            {% if site.bluesky_url %}
+            <li><a href="{{ site.bluesky_url }}" target="_blank"> <i class="fa-brands fa-bluesky"><span
+                                    class="label">BlueSky</span></i></a></li>
+            {% endif %}
+            {% if site.facebook_url %}
+            <li><a href="{{ site.facebook_url }}" target="_blank"> <i class="fa-brands fa-facebook"><span
+                                    class="label">Facebook</span></i></a></li>
+            {% endif %}
+            {% if site.instagram_url %}
+            <li><a href="{{ site.instagram_url }}" target="_blank"> <i class="fa-brands fa-instagram"><span
+                                    class="label">Instagram</span></i></a></li>
+            {% endif %}
+            {% if site.pinterest_url %}
+            <li><a href="{{ site.pinterest_url }}" target="_blank"> <i class="fa-brands fa-pinterest"><span
+                                    class="label">Pinterest</span></i></a></li>
+            {% endif %}
+            {% if site.gitlab_url %}
+            <li><a href="{{ site.gitlab_url }}" target="_blank"> <i class="fa-brands fa-gitlab"><span
+                                    class="label">GitLab</span></i></a></li>
+            {% endif %}
+            {% if site.github_url %}
+            <li><a href="{{ site.github_url }}" target="_blank"> <i class="fa-brands fa-github"><span
+                                    class="label">GitHub</span></i></a></li>
+            {% endif %}
+            {% if site.slack_url %}
+            <li><a href="{{ site.slack_url }}" target="_blank"> <i class="fa-brands fa-slack"><span
+                                    class="label">Slack</span></i></a></li>
+            {% endif %}
+            {% if site.linkedin_url %}
+            <li><a href="{{ site.linkedin_url }}" target="_blank"> <i class="fa-brands fa-linkedin"><span
+                                    class="label">LinkedIn</span></i></a></li>
+            {% endif %}
 
-  </ul>
-  <p class="copyright">&copy; {{ site.title }}. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration:
-    <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
+      </ul>
+      <p class="copyright">&copy; {{ site.title }}. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll
+            integration:
+            <a href="https://andrewbanchi.ch">Andrew Banchich</a>.
+      </p>
 </footer>
 
 </div>
