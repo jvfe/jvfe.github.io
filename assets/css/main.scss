@@ -53,3 +53,17 @@
 	@import 'layout/header';
 	@import 'layout/main';
 	@import 'layout/footer';
+
+
+figcaption {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 80% !important;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.exp {
+	margin-bottom: 1.2rem;
+}

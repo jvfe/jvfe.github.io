@@ -1,21 +1,25 @@
 ---
 title: projects
-image: projects_bg.png
+image: czi_meeting.webp
+caption: Attentively looking at some error logs at the CZI Open Science LatAm meeting (2023)
 ---
+
+<h4><a href="https://github.com/dalmolingroup/euryale" target="_blank">EURYALE</a></h4>
+
+A pipeline for taxonomic classification and functional annotation of metagenomic reads.
+</br>
+</br>
+
+<h4><a href="https://github.com/dalmolingroup/microview" target="_blank">MicroView</a></h4>
+
+A reporting tool for aggregating results from taxonomic classification analyses
+</br>
+</br>
 
 <h4><a href="https://github.com/jvfe/reconciler" target="_blank">reconciler</a></h4>
 
 A Python interface to W3C reconciliation services.
 </br>
-
-
-</br>
-
-<h4><a href="https://github.com/jvfe/wikidata2df" target="_blank">wikidata2df</a></h4>
-
-Utility Python package for easily turning a SPARQL query into a Pandas dataframe.
-</br>
-
 
 </br>
 
@@ -30,7 +34,6 @@ Furthermore, I frequently contribute to Open Source software projects, among the
 
 <ul>
 <li><a href="https://github.com/vinisalazar/bioprov" target="_blank">BioProv</a>,</li>
-<li><a href="https://github.com/biopython/biopython" target="_blank">BioPython</a> and</li>
-<li><a href="https://github.com/ropensci/webchem" target="_blank">WebChem.</a></li>
+<li><a href="https://github.com/nf-core/modules/" target="_blank">nf-core/modules</a> and</li>
+<li><a href="https://github.com/biopython/biopython" target="_blank">BioPython.</a> 
 </ul>
-

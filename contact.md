@@ -1,5 +1,6 @@
 ---
 title: contact
+image: projects_bg.png
 ---
 
 If you're looking to contact me about professional work, it's best to reach me through <a href="https://www.linkedin.com/in/joao-v-cavalcante/" target="_blank">LinkedIn</a>.
