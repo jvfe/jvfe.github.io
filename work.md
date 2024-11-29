@@ -39,7 +39,7 @@ Worked for Dr. Robert Beiko's lab in the Faculty of Computer Sciences on the dev
 
 <h4>Bioinformatics Consultant</h4>
 
-Worked as a freelance consultant, primarily in projects developing new bioinformatics workflows, in Nextflow, WDL, and the <a href="latch.bio" target="_blank">LatchBio platform</a>.
+Worked as a freelance consultant, primarily in projects developing new bioinformatics workflows, in Nextflow, WDL, and the <a href="https://latch.bio" target="_blank">LatchBio platform</a>.
 
 </div>
 
