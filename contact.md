@@ -3,6 +3,8 @@ title: contact
 image: projects_bg.png
 ---
 
+For academic inquiries, reach me through joao.cavalcante.073 at ufrn.edu.br.
+
 If you're looking to contact me about professional work, it's best to reach me through <a href="https://www.linkedin.com/in/joao-v-cavalcante/" target="_blank">LinkedIn</a>.
 But feel free to hit me up in any of these websites:
 
