@@ -3,7 +3,7 @@ title: about
 image: about_bg.png
 ---
 
-I'm a Bioinformatics Developer, currently working towards a Master's in Bioinformatics. I'm experienced with
+I'm a Bioinformatics Developer, currently working towards a PhD in Bioinformatics. I'm experienced with
 software development in Python and R, particularly in what pertains to scientific software and data analysis.
 My main focus these days has been data pipeline development, primarily with Nextflow.
 
