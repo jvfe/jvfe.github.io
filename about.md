@@ -3,8 +3,8 @@ title: about
 image: about_bg.png
 ---
 
-I'm a Bioinformatics Developer, currently working towards a PhD in Bioinformatics. I'm experienced with
-software development in Python and R, particularly in what pertains to scientific software and data analysis.
+I'm a Bioinformatics Developer, currently working towards a PhD in Bioinformatics at the <a href="https://dalmolingroup.imd.ufrn.br/" target="_blank">Dalmolin Systems Biology Group</a>. 
+I'm experienced with software development in Python and R, particularly in what pertains to scientific software and data analysis.
 My main focus these days has been data pipeline development, primarily with Nextflow.
 
 I also develop courses in subjects that interest me - I've taught short courses in Docker, Git (including one at <a href="https://learning.anaconda.cloud/version-control-with-git" target="_blank">Anaconda Learning</a>!)
