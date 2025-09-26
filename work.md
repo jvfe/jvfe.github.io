@@ -12,6 +12,8 @@ caption: Presenting my work at the Francis Crick Institute (2024)
 
 Furthering the advance of AI in the field of bioinformatics.
 
+</div>
+
 <h3>2024</h3>
 
 <div class="exp">
