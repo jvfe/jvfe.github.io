@@ -1,6 +1,6 @@
 ---
 title: about
-image: https://i.imgur.com/jRrkejz.jpeg
+image: "NextFlow (1).jpg"
 caption: Giving a class in Nextflow at the University of Chile (2025)
 ---
 
