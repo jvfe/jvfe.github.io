@@ -1,7 +1,7 @@
 ---
 title: projects
 image: czi_meeting.webp
-caption: Attentively looking at some error logs at the CZI Open Science LatAm meeting (2023)
+caption: Attentively looking at some error logs at the CZI Open Science LatAm meeting in Buenos Aires (2023)
 ---
 
 <h4><a href="https://github.com/dalmolingroup/euryale" target="_blank">EURYALE</a></h4>
