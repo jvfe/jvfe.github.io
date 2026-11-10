@@ -11,8 +11,6 @@ links:
   - label: Projects
     url: "/p/projects.html"
     internal: true
-  - label: Lab
-    url: "https://dalmolingroup.imd.ufrn.br/"
   - label: CV
     url: "https://joao.bio.br/cv/cv-en/cv-en.pdf"
   - label: GitHub
