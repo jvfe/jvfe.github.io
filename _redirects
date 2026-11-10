@@ -1,0 +1,23 @@
+# Netlify redirects (optional if deployed on Netlify).
+
+# Keep build files and directory indexes out of the public site.
+/Makefile        /  301!
+/site.yaml       /  301!
+/template.html   /  301!
+/README.md       /  301!
+/CLAUDE.md       /  301!
+/CLAUDE.html     /  301!
+/AGENTS.md       /  301!
+/AGENTS.html     /  301!
+/p/              /  301!
+/files/          /  301!
+
+# Short paths to internal pages.
+/work            /p/work.html
+/projects        /p/projects.html
+
+# Short vanity paths to external URLs.
+/github          https://github.com/jvfe
+/linkedin        https://www.linkedin.com/in/joao-v-cavalcante/
+/bluesky         https://bsky.app/profile/jvfe.bsky.social
+/cv              https://joao.bio.br/cv/cv-en/cv-en.pdf
